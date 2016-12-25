@@ -9,3 +9,7 @@ The right click menu showcases some pedantic as well as functional aspects of th
 * Changing materials (using the Phong model)
 * Changing the plane surface shape using noise.
 * Normal visualisation
+<br /><br />
+![](https://github.com/yousuf031991/LabyrinthGameUsingOpenGL/blob/master/fpsView.png)
+![](https://github.com/yousuf031991/LabyrinthGameUsingOpenGL/blob/master/overview.png)
+![](https://github.com/yousuf031991/LabyrinthGameUsingOpenGL/blob/master/menu.png)
